@@ -1,4 +1,4 @@
-# Web Development Final Project - *Blog*
+# Web Development Final Project - *Sell Your Car*
 
 Submitted by: **Your Name Here**
 
@@ -41,7 +41,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='' width='' alt='Video Walkthrough' />
+<img src='https://github.com/iakil/Blog/blob/main/File/a.gif' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
