@@ -1,10 +1,10 @@
 # Web Development Final Project - *Sell Your Car*
 
-Submitted by: **Your Name Here**
+Submitted by: **Akil Bhuiyan**
 
-This web app: **insert description**
+This web app: **Helps users to sell cars**
 
-Time spent: **X** hours spent in total
+Time spent: **32** hours spent in total
 
 ## Required Features
 
@@ -13,7 +13,7 @@ The following **required** functionality is completed:
 - [x] **A create form that allows the user to create posts**
 - [x] **Posts have a title and optionally additional textual content and/or an image added as an external image URL**
 - [x] **A home feed displaying previously created posts**
-- [ ] **By default, the time created, title, and number of upvotes for each post is shown on the feed**
+- [x] **By default, the time created, title, and number of upvotes for each post is shown on the feed**
 - [x] **Clicking on a post shall direct the user to a new page for the selected post**
 - [x] **Users can sort posts by either their created time or upvotes count**
 - [x] **Users can search for posts by title**
@@ -24,7 +24,7 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-- [ ] Users can only edit and deleted posts or delete comments by entering the secret key, which is set by the user during post creation
+- [x] Users can only edit and deleted posts or delete comments by entering the secret key, which is set by the user during post creation
 - [x] Upon launching the web app, the user is assigned a random user ID. It will be associated with all posts and comments that they make and displayed on them.
 - [x] Users can repost a previous post by referencing its post ID. On the post page of the new post, the referenced post is displayed and linked, creating a thread
 - [ ] Users can customize the interface of the web app
@@ -36,7 +36,7 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 * [ ] List anything else that you added to improve the site's functionality!
-
+ 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
